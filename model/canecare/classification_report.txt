@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+     Healthy      0.980     0.962     0.971        52
+      Mosaic      0.918     0.978     0.947        46
+      RedRot      1.000     0.885     0.939        52
+        Rust      0.944     1.000     0.971        51
+      Yellow      0.941     0.960     0.950        50
+
+    accuracy                          0.956       251
+   macro avg      0.957     0.957     0.956       251
+weighted avg      0.958     0.956     0.956       251
